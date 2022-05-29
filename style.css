@@ -1,0 +1,153 @@
+body {
+  font-family: "Encode Sans", sans-serif;
+  width: 1250px;
+}
+
+div {
+  padding: 10px;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+.cabecalho {
+  width: 100%;
+  height: 80px;
+}
+
+.logo img {
+  display: block;
+  margin: auto auto 10px auto;
+}
+
+.conteudo {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.centro-sup img {
+  width: 193px;
+  height: 110px;
+  border-radius: 12px;
+}
+
+.materias-laterais-a {
+  border-right: 1px solid #ebedef;
+}
+
+.materias-laterais-a img {
+  width: 240px;
+  height: 128px;
+  border-radius: 12px;
+}
+
+.materias-laterais-b img {
+  width: 240px;
+  height: 128px;
+  border-radius: 12px;
+}
+
+.menu-cabecalho {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #f5f6f7;
+  border-bottom: 1px solid #f5f6f7;
+  border-width: 100%;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 0;
+}
+
+.headline {
+  border-bottom: 1px solid #ebedef;
+}
+
+.headline a {
+  color: #c4160c;
+  font-size: 52px;
+  font-weight: bold;
+}
+
+.secundaria a {
+  font-size: 18px;
+  color: #303134;
+}
+
+.centro-sup {
+  display: flex;
+  border-bottom: 1px solid #ebedef;
+}
+
+.centro-inf {
+  display: flex;
+}
+
+.materia a h3 {
+  color: #c4160c;
+}
+
+.materia a h2,
+p {
+  color: #303134;
+}
+
+.materia-a a h3 {
+  color: #16ae54;
+}
+
+.materia-a a h2,
+p {
+  color: #303134;
+}
+
+.materia-b a h3 {
+  color: #ec8006;
+}
+
+.materia-b a h2,
+p {
+  color: #303134;
+}
+
+.g1 a {
+  color: #c3170c;
+}
+
+.globo a {
+  color: #1e4b9b;
+}
+
+.valor a {
+  color: #006766;
+}
+
+.ge a {
+  color: #07aa47;
+}
+
+.cartola a {
+  color: #e3662b;
+}
+
+.globoplay a {
+  color: #fb0735;
+}
+
+.dropz a {
+  color: #ff75bb;
+}
+
+.gshow a {
+  color: #ec7d00;
+}
+
+.quem a {
+  color: #323333;
+}
+
+.receitas a {
+  color: #a81d83;
+}
